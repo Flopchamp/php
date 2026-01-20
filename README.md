@@ -12,7 +12,7 @@ This is a simple PHP project that demonstrates a user registration form with bas
 ## Files
 - `index.php`: Main registration form and logic
 - `database.php`: Database connection setup
-- `retrive.php`: (Purpose not described; likely for data retrieval)
+
 
 ## Setup Instructions
 1. **Clone or copy the project files to your web server directory (e.g., `htdocs` for XAMPP).**
